@@ -1,0 +1,32 @@
+.charts-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-areas:
+    "contrib trend  cost"
+    "contrib issues phases";
+  gap: 6px;
+  align-items: start;
+  padding: 10px 10px;
+}
+
+.chart-title {
+  align-self: center;
+  text-align: center;
+}
+
+.contrib-area,
+.trend-area,
+.cost-area,
+.issues-area,
+.phases-area {
+  width: 100%;
+  box-shadow: 0 2px 8px rgba(15, 15, 15, 0.15);
+  background: white;
+  border-radius: 8px;
+}
+
+.contrib-area { grid-area: contrib; height: 680px; }
+.trend-area   { grid-area: trend;   height: 340px; display: flex; flex-direction: column; }
+.cost-area    { grid-area: cost;    height: 340px; }
+.issues-area  { grid-area: issues;  height: 340px; }
+.phases-area  { grid-area: phases;  height: 340px; }

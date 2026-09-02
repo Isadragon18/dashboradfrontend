@@ -1,0 +1,27 @@
+[
+  {
+    "Category": "May",
+    "Sum of Hours (hr)": 216,
+    "Sum of NPT Cost \r\n($)": 2137405.5066475,
+    "__EMPTY": "May",
+    "__EMPTY_1": 216,
+    "__EMPTY_2": 2137405.5066475
+  },
+  {
+    "Category": "Jun",
+    "Sum of Hours (hr)": 131.5,
+    "Sum of NPT Cost \r\n($)": 1621039.6914991667,
+    "__EMPTY": "Jun",
+    "__EMPTY_1": 131.5,
+    "__EMPTY_2": 1621039.6914991667
+  },
+  {
+    "Category": "Jul",
+    "Sum of Hours (hr)": 11.5,
+    "Sum of NPT Cost \r\n($)": 136565.16015228152,
+    "__EMPTY": "Jul",
+    "__EMPTY_1": 11.5,
+    "__EMPTY_2": 136565.16015228152
+  }
+]
+

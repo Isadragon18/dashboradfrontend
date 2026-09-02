@@ -1,0 +1,38 @@
+[
+  {
+    "Category": "Human Error",
+    "Sum of Hours (hr)": 140,
+    "__EMPTY": "Human Error",
+    "__EMPTY_1": 140
+  },
+  {
+    "Category": "Equipment Failure",
+    "Sum of Hours (hr)": 132,
+    "__EMPTY": "Equipment Failure",
+    "__EMPTY_1": 132
+  },
+  {
+    "Category": "Mechanical",
+    "Sum of Hours (hr)": 70.5,
+    "__EMPTY": "Mechanical",
+    "__EMPTY_1": 70.5
+  },
+  {
+    "Category": "Mud / Solids",
+    "Sum of Hours (hr)": 11,
+    "__EMPTY": "Mud / Solids",
+    "__EMPTY_1": 11
+  },
+  {
+    "Category": "Wellhead",
+    "Sum of Hours (hr)": 4,
+    "__EMPTY": "Wellhead",
+    "__EMPTY_1": 4
+  },
+  {
+    "Category": "Cementing",
+    "Sum of Hours (hr)": 1.5,
+    "__EMPTY": "Cementing",
+    "__EMPTY_1": 1.5
+  }
+]

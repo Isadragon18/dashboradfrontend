@@ -1,0 +1,18 @@
+.party-btn{
+    font-family: "Aptos Narrow";
+    border-radius: 5px;
+    border: none;
+    background-color: #8a2be2;
+    color: white;
+    font-size: 10px;
+    width: 70px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    place-items: center;
+    transition: background-color 0.15s ease, transform 0.1s ease;
+}
+.party-btn:hover{
+    background-color: #f7f024;
+    transform: scale(1.05);
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "KPI": "Total Rig Hours",
+    "values": 2415,
+    "units": "hrs",
+    "sub": 100.625,
+    "subUnits": "days"
+  },
+  {
+    "KPI": "Total NPT Hours",
+    "values": 359,
+    "units": "hrs",
+    "sub": 14.958333333333334,
+    "subUnits": "days"
+  },
+  {
+    "KPI": "Overall NPT %",
+    "values": 0.14865424430641822,
+    "units": "%"
+  },
+  {
+    "KPI": "Total NPT Cost ($)",
+    "values": 3895010.3582989485,
+    "units": "$"
+  },
+  {
+    "KPI": "Productive Hours",
+    "values": 2056,
+    "units": "hrs",
+    "sub": 85.66666666666667,
+    "subUnits": "days"
+  },
+  {
+    "KPI": "Productive Time (%)",
+    "values": 0.8513457556935817,
+    "units": "%"
+  }
+]

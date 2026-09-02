@@ -1,0 +1,38 @@
+[
+  {
+    "Phases": "Conductor Piling/Cleanout",
+    "Sum of Hours (hr)": 2.5,
+    "__EMPTY": "Conductor Piling/Cleanout",
+    "__EMPTY_1": 2.5
+  },
+  {
+    "Phases": "17-1/2\" x  23\" Hole Section",
+    "Sum of Hours (hr)": 188.5,
+    "__EMPTY": "17-1/2\" x  23\" Hole Section",
+    "__EMPTY_1": 188.5
+  },
+  {
+    "Phases": "16\" Hole Section",
+    "Sum of Hours (hr)": 44,
+    "__EMPTY": "16\" Hole Section",
+    "__EMPTY_1": 44
+  },
+  {
+    "Phases": "12 1/4\" Hole Section",
+    "Sum of Hours (hr)": 119.5,
+    "__EMPTY": "12 1/4\" Hole Section",
+    "__EMPTY_1": 119.5
+  },
+  {
+    "Phases": "Perforation and Wellbore Cleanout",
+    "Sum of Hours (hr)": 1,
+    "__EMPTY": "Perforation and Wellbore Cleanout",
+    "__EMPTY_1": 1
+  },
+  {
+    "Phases": "Completions",
+    "Sum of Hours (hr)": 3.5,
+    "__EMPTY": "Completions",
+    "__EMPTY_1": 3.5
+  }
+]
